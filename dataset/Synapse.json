@@ -1,0 +1,30 @@
+{
+    "description": "BTCV",
+    "labels": {
+        "background": 0,
+        "spleen": 1,
+        "rkid": 2,
+        "lkid": 3,
+        "gall": 4,
+        "eso": 5,
+        "liver": 6,
+        "sto": 7,
+        "aorta": 8,
+        "IVC": 9,
+        "veins": 10,
+        "pancreas": 11,
+        "rad": 12,
+        "lad": 13
+    },
+    "licence": "yt",
+    "name": "BTCV",
+    "numTest": 6,
+    "numTraining": 24,
+    "reference": "Shandong University AiTechLab",
+    "release": "1.0 08/04/2022",
+    "tensorImageSize": "3D",
+    "file_ending": ".nii.gz",
+    "channel_names": {
+        "0": "CT"
+    }
+}
